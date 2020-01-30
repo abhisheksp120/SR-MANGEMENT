@@ -6,3 +6,7 @@ subject based on average marks, finding failures, finding topper, etc.  are also
 
 
 
+# How to Run
+
+Put all the source file in a driectory and run-
+```gcc stu_rec_ll.c```
