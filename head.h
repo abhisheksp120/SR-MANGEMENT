@@ -43,7 +43,7 @@ record_node* list_difference_return(record_node* listtt1, record_node* listtt2, 
 record_node* list_union_return(record_node *listt1, record_node *listt2, record_node *listt3);
 record_node* mergeself(record_node *lptr,record_node *ptr);
 record_node* divide(record_node* lptr);
-record_node* list_mergesort(record_node sptr);
+record_node* list_mergesort(record_node* sptr);
 
 /*----------------------------------------//Global Declaration of all the functions and structures--------------------------------------*/
 
